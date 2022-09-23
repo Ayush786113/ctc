@@ -1,0 +1,400 @@
+<resources>
+    <string name="app_name">Click The Card</string>
+
+    <string-array name="topic">
+        <item>Who was your first crush?
+</item>
+        <item>What was the most boring joke you have ever told?
+</item>
+        <item>Who is the person in the room who you hate the most?
+</item>
+        <item>What was the most embarrassing dream you have ever had?
+</item>
+        <item>What is your worst fear?
+</item>
+        <item>"When was the first time you ever called your teacher ""mom""?"
+</item>
+        <item>I dare you to make your funniest monkey face.
+</item>
+        <item>Peel a banana with your feet.
+</item>
+        <item>Taste a dirty sock.
+</item>
+        <item>Eat a spoonful of mustard
+</item>
+        <item>Lick the person sock closest to you.
+</item>
+        <item>I dare you to ask your neighbor for a roll of toilet paper.
+</item>
+        <item>I dare you to ask someone to do your makeup blindfolded.
+</item>
+        <item>I dare you to do 10 dares made up by your friends.
+</item>
+        <item>I dare you to lick a players shoe.
+</item>
+        <item>I dare you to prank call a random person with an accent.
+</item>
+        <item>I dare you to wet willy the person across from you.
+</item>
+        <item>I dare you to say bad comments to everyone you see pass by.
+</item>
+        <item>Who was your first crush?
+</item>
+        <item>Who is the person in the room who you hate the most?
+</item>
+        <item>What was the most boring joke you have ever told?
+</item>
+        <item>What was the most embarrassing dream you have ever had?
+</item>
+        <item>What is your worst fear?
+</item>
+        <item>"When was the first time you ever called your teacher ""mom""?"
+</item>
+        <item>If you were marooned on an island with just a single person, who would you like it to be?
+</item>
+        <item> If you woke up one day and notice, that you are invisible, then what will be the first thing that you would like to do?
+</item>
+        <item> What is the question that you do not want anyone to ask you in this game?
+</item>
+        <item> If you could have anything in the world, what would it be?
+</item>
+        <item> What is the strangest dream you have ever had?
+</item>
+        <item> What do you like the most about everyone in the room?
+</item>
+        <item> Have you ever lied to a teacher and what was it about?
+</item>
+        <item> Do you sneak snacks when your Mom is not looking?
+</item>
+        <item> What is the dumbest thing you ever said or did, around a boy/girl you liked?
+</item>
+        <item> What is the worst gift you have ever received?
+</item>
+        <item>Have you ever lied in truth in truth or dare?
+</item>
+        <item>Dance like a crazy person on your favorite song.
+</item>
+        <item> Run around wearing socks on your hands, pants for a shirt and a shirt for pants, for 3 minutes.
+</item>
+        <item> Say the pledge of allegiance in your most hated teacher voice.
+</item>
+        <item> Run down the street in your pajamas.
+</item>
+        <item> Have the person to the left of you do your makeup … blindfolded.
+</item>
+        <item>" After everything you say add ""Whoa … I'm good!"" for the next 15 minutes."
+</item>
+        <item> Ask a neighbor for a roll of toilet paper.
+</item>
+        <item> What is one annoying habit of each person in the room?
+</item>
+        <item> Stand in your front yard, wave and say Hi! to everyone you see.
+</item>
+        <item> Moonwalk across the room.
+</item>
+        <item> Pretend that you are underwater for the next 10 minutes.
+</item>
+        <item> Act like a gorilla for one minute
+</item>
+        <item>Smell a dirty sock for ten seconds.
+</item>
+        <item>What would you do if you won $100,000,000,000,000?
+</item>
+        <item>Sing your favorite song in a funny voice.
+</item>
+        <item>Have the other kids wrap you in toilet paper.
+</item>
+        <item>Bite into a lemon slice.
+</item>
+        <item>Go outside and pour a cup of ice cold water over your head.
+</item>
+        <item>Hold an ice cube in your hand until it melts.
+</item>
+        <item>Eat a pudding cup without using your hands.
+</item>
+        <item>"Go outside and yell ""I believe in fairies"" loudly three times while clapping your hands as fast as you can."
+</item>
+        <item>"Sing the ""I'm a little tea pot song"". Do all the motions"
+</item>
+        <item>Eat a mouthful of crackers and then try and whistle.
+</item>
+        <item>Act out a favorite scene from a movie.
+</item>
+        <item>Spin around with your head on a bat 5 times and then jump rope.
+</item>
+        <item>Say the alphabet backwards as fast as you can.
+</item>
+        <item>Give every tree in the yard a big hug and tell each one that you love him/her.
+</item>
+        <item>For the next hour wear lampshade on your head for a hat.
+</item>
+        <item>Let the person standing closest to you do your make-up crazy. Keep it on for at least an hour.
+</item>
+        <item>Stick jelly between all your toes and leave it there for 20 minutes.
+</item>
+        <item>Go into the front yard and do the chicken dance for one minute Don not forget to bark.
+</item>
+        <item>If you had to be Crazy-Glued to any celebrity, who would it be and why?
+</item>
+        <item>What is the strangest obsession you have ever had?
+</item>
+        <item>What is the meanest thing you have ever done?
+</item>
+        <item>What is the weirdest thing you have ever done
+</item>
+        <item>Who was the first person you kissed
+</item>
+        <item>Who is your crush right  now
+</item>
+        <item>I dare you to Put an ice cube in your pants pocket and keep it there until it completely melts.
+</item>
+        <item>Give a piggyback ride to or receive a piggyback ride from another player.
+</item>
+        <item>Lick the palm and back of hand for the player directly across from you
+</item>
+        <item>choose another player and repeat everything they say for the next 3 rounds.
+</item>
+        <item>Place some food on a plate on the floor do push-up over the plate and eat a bite every time you go down
+</item>
+        <item>Have another player write the name of their first love on your forehead.
+</item>
+        <item>What is the most embarrassing thing that happened to you?
+</item>
+        <item>What is one talent most people here dont know you have?
+</item>
+        <item>Have you ever lied for Truth or Dare?
+</item>
+        <item>Eat a packet of catchup
+</item>
+        <item>Bite into a lemon slice
+</item>
+        <item>Eat a raw egg
+</item>
+        <item>Ask a neighbor for a roll of toilet paper.
+</item>
+        <item>Stuff marshmallows in your mouth and sing twinkle twinkle little star
+</item>
+        <item>Eat a spoon full of mustard.
+</item>
+        <item>Stand on your head for 10 seconds.
+</item>
+        <item>Try to lick your elbow.
+</item>
+        <item>Do a crabwalk across the room.
+</item>
+        <item>Peel a banana using your feet.
+</item>
+        <item>Spin around 10 times and try to walk a straight line.
+</item>
+        <item>Keep a straight face as the other kids do their best to make you laugh for one minute.
+</item>
+        <item>Balance a spoon on your nose for 10 second.
+</item>
+        <item>Act like a gorilla and pretend to pick bugs out of your friends hair.
+</item>
+        <item>Smell a dirty sock for ten seconds.
+</item>
+        <item>Sing your favorite song in a funny voice.
+</item>
+        <item>Have the other kids wrap you in toilet paper.
+</item>
+        <item>Bite into a lemon slice.
+</item>
+        <item>Go outside and pour a cup of ice cold water over your head.
+</item>
+        <item>Hold an ice cube in your hand until it melts.
+</item>
+        <item>Use lipstick and write the word funky monkey across your face. Keep it there at least an hour.
+</item>
+        <item>Eat a pudding cup without using your hands.
+</item>
+        <item>Go outside and yell I believe in fairies loudly three times while clapping your hands as fast as you can.
+</item>
+        <item>Sing the Im a little tea pot song. Do all the motions.
+</item>
+        <item>Eat a mouthful of crackers and then try and whistle.
+</item>
+        <item>Act out a favorite scene from a movie.
+</item>
+        <item>Spin around with your head on a bat 5 times and then jump rope.
+</item>
+        <item>Say the alphabet backwards as fast as you can.
+</item>
+        <item>Give every tree in the yard a big hug and tell each one that you love him.
+</item>
+        <item>For the next hour wear lampshade on your head for a hat.
+</item>
+        <item>Let the person standing closest to you do your make-up crazy. Keep it on for at least an hour.
+</item>
+        <item>Stick jelly between all your toes and leave it there for 20 minutes.
+</item>
+        <item>Draw a face on your stomach and make it go around and tell every person in the room to have a nice day.
+</item>
+        <item>Go into the front yard and do the chicken dance for one minute Dont forget to bawk.
+</item>
+        <item>If you were marooned on an island with just a single person, who would you like it to be?
+</item>
+        <item>If you woke up one day and notice, that you are invisible, then what will be the first thing that you would like to do?
+</item>
+        <item>What is the question that you do not want anyone to ask you in this game?
+</item>
+        <item>What was the nastiest joke you ever played on someone?
+</item>
+        <item>If you could have anything in the world, what would it be?
+</item>
+        <item>What is the strangest dream you have ever had?
+</item>
+        <item>Have you ever lied to a teacher and what was it about?
+</item>
+        <item>Do you sneak snacks when your Mom is not looking?
+</item>
+        <item>What is the dumbest thing you ever said or did, around a boy/girl you liked?
+</item>
+        <item>Run around wearing socks on your hands, pants for a shirt and a shirt for pants, for 3 minutes.
+</item>
+        <item>"After everything you say add ""Whoa … I'm good!"" for the next 15 minutes. "
+</item>
+        <item>Stand in your front yard, wave and say Hi! to everyone you see.
+</item>
+        <item>Moonwalk across the room.
+</item>
+        <item>Pretend that you are underwater for the next 10 minutes.
+</item>
+        <item>Act like a gorilla for one minute.
+</item>
+    </string-array>
+
+    <string-array name="choice">
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>T</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+        <item>D</item>
+    </string-array>
+
+</resources>
